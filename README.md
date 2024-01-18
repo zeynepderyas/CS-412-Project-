@@ -16,10 +16,10 @@ We used Google Colab Drive mounting in order to increase contribution and to be 
 Our data is provided by our professor, it contains some HTML files and CVS file. HTML files contain students ChatGPT conversations, the CVS file shows scores of each student. The actual defined questions of assigned homework is given as a list inside the code.
 
 ## Methodology
--**Data Preparation and Preprocessing:**
- - Parsing HTML files.
- -Cleaning data.
- -Handling with missing data.
+- **Data Preparation and Preprocessing:**
+  - Parsing HTML files.
+  -Cleaning data.
+  -Handling with missing data.
 
 -**Feature Engineering:**
 Tokenization
