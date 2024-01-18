@@ -1,7 +1,11 @@
-# CS412 - Project - Zeynep Derya Selçuk 29391 - Doğa Koltan 29025
+# CS412 - Machine Learning Project
 
 ## Overview
 With this project we tried to predict student's homework grades by using their ChatGPT conversation histories. We merged student's homework scores with conversation stories to create a machine learning model.
+
+- **Team member names & id number:--
+  - Zeynep Derya Selçuk 29391
+  - Doğa Koltan 29025
 
 ## Repository Structure
 - **data:** Involves the datasets used in the project which are HTML files and CVS file.
