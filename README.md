@@ -17,22 +17,22 @@ Our data is provided by our professor, it contains some HTML files and CVS file.
 
 ## Methodology
 - **Data Preparation and Preprocessing:**
-  - Parsing HTML files.
-  - Cleaning data.
-  - Handling with missing data.
+  - Parsing HTML files
+  - Cleaning data
+  - Handling with missing data
 
--**Feature Engineering:**
-Tokenization
-Prompt Analysis
-Keyword Analysis
-Sentiment Analysis
+- **Feature Engineering:**
+  - Tokenization
+  - Prompt Analysis
+  - Keyword Analysis
+  - Sentiment Analysis
 
--**Vectorization and Similarity Measurement:**
-Cosine similarity
-Vectorization
+- **Vectorization and Similarity Measurement:**
+  - Cosine similarity
+  - Vectorization
 
--**Model Evaluation:**
-Train and test splits
-Mean Squared Error 
+- **Model Evaluation:**
+  - Train and test splits
+  - Mean Squared Error 
 
 
