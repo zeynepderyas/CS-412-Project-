@@ -38,7 +38,13 @@ Our data is provided by our professor, it contains some HTML files and CVS file.
 - **Model Evaluation:**
   - Train and test splits
   - Mean Squared Error
- 
+
+ ## Contributions
+Since our group was two people,instead of dividing the responsibilities we preferred to do them together. We both took part in every part of the code. We both wrote each part together, but both of us had stronger sides in terms of expressing their opinions on the issues. Below, we have only written about which side we put more effort than the other parts. We both played the same role in every part of the project.
+
+- Zeynep Derya Selçuk: Cosine similarity, Feature analysis parts, mean squares error
+- Doğa Koltan: Data preprocessing, tokenization, training and testing
+
 ## Results
 There are outputs of some code cells below. It is not possible to put all the results because some cells have too many outputs due to the number of files.
 More detailed results are available in the code we have uploaded on sucourse.
@@ -76,8 +82,3 @@ More detailed results are available in the code we have uploaded on sucourse.
   <img width="586" alt="Ekran Resmi 2024-01-19 00 34 30" src="https://github.com/zeynepderyas/CS-412-Project-/assets/148149481/15940ebc-8481-4868-815d-5b23d0fb53e6">
 
 
-## Contributions
-Since our group was two people,instead of dividing the responsibilities we preferred to do them together. We both took part in every part of the code. We both wrote each part together, but both of us had stronger sides in terms of expressing their opinions on the issues. Below, we have only written about which side we put more effort than the other parts. We both played the same role in every part of the project.
-
-- Zeynep Derya Selçuk: Cosine similarity, Feature analysis parts, mean squares error
-- Doğa Koltan: Data preprocessing, tokenization, training and testing
