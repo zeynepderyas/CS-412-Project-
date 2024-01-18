@@ -18,8 +18,8 @@ Our data is provided by our professor, it contains some HTML files and CVS file.
 ## Methodology
 - **Data Preparation and Preprocessing:**
   - Parsing HTML files.
-  -Cleaning data.
-  -Handling with missing data.
+  - Cleaning data.
+  - Handling with missing data.
 
 -**Feature Engineering:**
 Tokenization
