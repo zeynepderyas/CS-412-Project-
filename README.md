@@ -37,7 +37,12 @@ Our data is provided by our professor, it contains some HTML files and CVS file.
 
 - **Model Evaluation:**
   - Train and test splits
-  - Mean Squared Error 
+  - Mean Squared Error
+ 
+## Results
+<img width="1276" alt="Ekran Resmi 2024-01-19 00 20 20" src="https://github.com/zeynepderyas/CS-412-Project-/assets/148149481/74046c31-2724-4387-a658-a07fe55bc9c3">
+
+
 
 ## Contributions
 Since our group was two people,instead of dividing the responsibilities we preferred to do them together. We both took part in every part of the code. We both wrote each part together, but both of us had stronger sides in terms of expressing their opinions on the issues. Below, we have only written about which side we put more effort than the other parts. We both played the same role in every part of the project.
