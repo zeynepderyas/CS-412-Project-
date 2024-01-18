@@ -1,7 +1,7 @@
 # CS412 - Machine Learning Project
 
 ## Overview
-With this project we tried to predict student's homework grades by using their ChatGPT conversation histories. We merged student's homework scores with conversation stories to create a machine learning model.
+With this project we tried to predict student's homework grades by using their ChatGPT conversation histories. We merged student's homework scores with conversation stories to create a machine learning model. We hope you like it!
 
 - **Team member names & id number:**
   - Zeynep Derya Selçuk 29391
@@ -40,5 +40,7 @@ Our data is provided by our professor, it contains some HTML files and CVS file.
   - Mean Squared Error 
 
 ## Contributions
-- **Zeynep Derya Selçuk:**
-- **Doğa Koltan:**
+Since our group was two people,instead of dividing the responsibilities we preferred to do them together. We both took part in every part of the code. We both wrote each part together, but both of us had stronger sides in terms of expressing their opinions on the issues. Below, we have only written about which side we put more effort than the other parts. We both played the same role in every part of the project.
+
+- **Zeynep Derya Selçuk:**Cosine similarity, Feature analysis parts, mean squares error
+- **Doğa Koltan:**Data preprocessing, tokenization, training and testing
