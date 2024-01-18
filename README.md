@@ -35,4 +35,6 @@ Our data is provided by our professor, it contains some HTML files and CVS file.
   - Train and test splits
   - Mean Squared Error 
 
-
+## Contributions
+- **Zeynep Derya Selçuk:**
+- **Doğa Koltan:**
