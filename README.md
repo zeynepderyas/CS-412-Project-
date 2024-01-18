@@ -40,8 +40,32 @@ Our data is provided by our professor, it contains some HTML files and CVS file.
   - Mean Squared Error
  
 ## Results
+There are outputs of some code cells below. It is not possible to put all the results because some cells have too many outputs due to the number of files.
+More detailed results are available in the code we have uploaded on sucourse.
+
+- We read and tokanized the file correctly
 <img width="1276" alt="Ekran Resmi 2024-01-19 00 20 20" src="https://github.com/zeynepderyas/CS-412-Project-/assets/148149481/74046c31-2724-4387-a658-a07fe55bc9c3">
 
+- Dealing with missing values
+  <img width="371" alt="Ekran Resmi 2024-01-19 00 27 12" src="https://github.com/zeynepderyas/CS-412-Project-/assets/148149481/23303bda-c2ff-45ba-ad90-38ec29fe3d74">
+
+- Vetorizing
+  <img width="1192" alt="Ekran Resmi 2024-01-19 00 28 33" src="https://github.com/zeynepderyas/CS-412-Project-/assets/148149481/b91f5959-1641-4829-be92-8187e0620fe8">
+
+- Beginning of mapping 
+  <img width="1093" alt="Ekran Resmi 2024-01-19 00 29 18" src="https://github.com/zeynepderyas/CS-412-Project-/assets/148149481/7cf7f092-338d-4837-9ee5-95f289bb2d78">
+
+- Our histogram for grade distribution
+  <img width="565" alt="Ekran Resmi 2024-01-19 00 31 09" src="https://github.com/zeynepderyas/CS-412-Project-/assets/148149481/cef1bf83-b705-4f21-a4ae-5f2f3b49c81d">
+
+- Merging scores with features
+  <img width="1279" alt="Ekran Resmi 2024-01-19 00 32 00" src="https://github.com/zeynepderyas/CS-412-Project-/assets/148149481/e6014c2e-3f42-4e88-9296-a3d21a4498d8">
+
+- Training and Testing
+  <img width="199" alt="Ekran Resmi 2024-01-19 00 33 51" src="https://github.com/zeynepderyas/CS-412-Project-/assets/148149481/d083bd4f-c5a5-4425-ad6e-dbf91b814b7c">
+
+- Our MSE
+  <img width="586" alt="Ekran Resmi 2024-01-19 00 34 30" src="https://github.com/zeynepderyas/CS-412-Project-/assets/148149481/15940ebc-8481-4868-815d-5b23d0fb53e6">
 
 
 ## Contributions
