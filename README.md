@@ -21,23 +21,23 @@ Our data is provided by our professor, it contains some HTML files and CVS file.
 
 ## Methodology
 - **Data Preparation and Preprocessing:**
-  - Parsing HTML files
-  - Cleaning data
-  - Handling with missing data
+  - Parsing HTML files: Elimination of data, choosing useful ones.
+  - Cleaning data: In order to ensure the quality of dataset.
+  - Handling with missing data: In order to avoid bias and increase the      performance of the code.
 
 - **Feature Engineering:**
-  - Tokenization
-  - Prompt Analysis
-  - Keyword Analysis
+  - Tokenization: Aiming the working on smaller pieces.
+  - Prompt Analysis: In order to understand concept and geting familier with user preferences
+  - Keyword Analysis: Helping categorization
   - Sentiment Analysis
 
 - **Vectorization and Similarity Measurement:**
-  - Cosine similarity
-  - Vectorization
+  - Cosine similarity: In oreder to measure the similarities. It is important for matching.
+  - Vectorization: We transformed text into numbers
 
 - **Model Evaluation:**
-  - Train and test splits
-  - Mean Squared Error
+  - Train and test splits: We need this for generalization.
+  - Mean Squared Error: It is an metric, we tried to make it smaller as possible because smaller MSE provides better fitting.
 
  ## Contributions
 Since our group was two people,instead of dividing the responsibilities we preferred to do them together. We both took part in every part of the code. We both wrote each part together, but both of us had stronger sides in terms of expressing their opinions on the issues. Below, we have only written about which side we put more effort than the other parts. We both played the same role in every part of the project.
